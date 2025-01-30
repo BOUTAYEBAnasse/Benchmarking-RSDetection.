@@ -33,7 +33,7 @@ The proposed notebooks contain implementations of each model, one notebook for e
 ---
 ## 🗺️ Data to be used
 
-This Google Drive link **[Google Drive Link](https://drive.google.com/drive/folders/169pPSf4iCSqu7Zme9-hzyOOWLY8_EH4Y?usp=sharing)** contains all the resources required to execute this project. The available resources include two datasets, Optical and SAR, using to train, validate and test the models presented.
+This Google Drive link **[Google Drive Link](https://drive.google.com/drive/folders/1-8UDTKH-A7PerjXUXKDAXtTWKYRdj7IS?usp=sharing)** contains all the resources required to execute this project. The available resources include two datasets, Optical and SAR, using to train, validate and test the models presented.
    
 ---
 
