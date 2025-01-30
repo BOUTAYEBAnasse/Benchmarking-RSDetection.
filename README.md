@@ -8,7 +8,7 @@ This repository contains the data and resources required for the comparative eva
 
 ## 🎯️ Deformable-DETR model
 
-**Reference article**: [“DINO: DETR with Improved DeNoising Anchor Boxes”](https://arxiv.org/abs/2203.03605), Zhang et al., 2022.
+**Reference article**: [“Deformable DETR: Deformable Transformers for End-to-End Object Detection”](https://arxiv.org/abs/2010.04159), Zhu et al., 2020.
 
 **Deformable DETR** is an improved version of DETR model, designed for more efficient and accurate object detection. It introduces deformable attention to focus on relevant regions while reducing computational cost and incorporates multi-scale feature processing, making it particularly effective for detecting small objects and accelerating training convergence.
 
