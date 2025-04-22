@@ -1,4 +1,4 @@
-# 🛰 Remote Sensing Object Detection Benchmark
+# 🛰 Deformable Attention mechanisms applied to Remotely Sensed images
 
 This repository contains the data and resources needed to apply the Deformable-DETR model (Zhu et al., 2021) to optical and SAR remote sensing images.
 
@@ -19,6 +19,8 @@ This repository contains benchmarking notebooks for each dataset, in addition to
 ## 📁 Repository Structure
 
 The proposed notebooks contain implementations of each model, two notebooks for each model, one for the nominal process, i.e. training, validation and testing, and the other for rapid inference on a set of images for each model, 20 in all.
+
+Fine Tuned Models are under this link: **[Google Drive Link](https://drive.google.com/drive/u/1/folders/1xf-vNriat8YUJQGu-fedciORcqXCzzW6?usp=sharing)**, please unzip the DETR and DEFORMABLE-DETR models before using them in the inference notebooks (folder: Predictions).
 
 ---
 ## 🗺️ Data to be used
