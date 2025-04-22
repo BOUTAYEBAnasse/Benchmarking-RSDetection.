@@ -56,7 +56,7 @@ The testing phase includes:
 
 ## 🏆 Metric results for 12 epochs (%)
 
-Test results show a notable performance of transformer-based models, in particular Deformable-DETR, on both datasets.
+Test results show a notable performance of Deformable-DETR model, on both datasets.
 
 ### **Pleiades Aircraft Dataset**
 
