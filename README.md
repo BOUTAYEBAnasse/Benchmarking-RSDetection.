@@ -1,6 +1,6 @@
 # 🛰 Remote Sensing Object Detection Benchmark
 
-This repository contains the data and resources required for the comparative evaluation of the best-performing object detection models on SAR and optical remote sensing images.
+This repository contains the data and resources needed to apply the Deformable-DETR model (Zhu et al., 2021) to optical and SAR remote sensing images.
 
 <div align="center" style="border: 2px solid black; padding: 10px; background-color: #f8f8f8;">
     <img src="assets/GITHUB_COVER.PNG" alt="Description du graphique" width="650">
@@ -8,8 +8,9 @@ This repository contains the data and resources required for the comparative eva
 
 ## 📊 Notebooks for Benchmarking 
 
-This repository contains benchmarking notebooks for each dataset. For both **Pleiades Aircraft Dataset** and **SSDD Dataset**, the following models are implemented:
+This repository contains benchmarking notebooks for each dataset, in addition to the basic model. For both **Pleiades Aircraft Dataset** and **SSDD Dataset**, the following benchmarking models are implemented:
 
+- **DEtection TRansformer (DETR)** (Carion et al., 2020)
 - **YOLO V10** (Redmon et al., 2016)
 - **RetinaNet** (Lin et al., 2017)
 - **Faster R-CNN** (Ren et al., 2015)
