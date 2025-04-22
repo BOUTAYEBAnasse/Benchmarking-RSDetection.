@@ -18,7 +18,7 @@ This repository contains benchmarking notebooks for each dataset, in addition to
 ---
 ## 📁 Repository Structure
 
-The proposed notebooks contain implementations of each model, two notebooks for each model, one for the nominal process, i.e. training, validation and testing, and the other for rapid inference on a set of images for each model, 20 in all.
+The proposed notebooks contain a set of implementations, two notebooks for each model, one for the nominal process, i.e. training, validation and testing, and the other for rapid inference on a set of images for each model, 20 in all.
 
 You can download concerned models under: **[Fine-Tuned Models](https://drive.google.com/drive/u/1/folders/1xf-vNriat8YUJQGu-fedciORcqXCzzW6?usp=sharing)**, please unzip the DETR and DEFORMABLE-DETR models before using them in the inference notebooks (folder: Predictions).
 
