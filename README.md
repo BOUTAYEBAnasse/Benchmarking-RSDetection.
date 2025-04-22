@@ -1,6 +1,6 @@
 # 🛰 Deformable Attention mechanisms applied to Remotely Sensed images
 
-This repository contains the data and resources needed to apply the Deformable-DETR model (**[Zhu et al., 2021]((https://arxiv.org/abs/2010.04159))**) to optical and SAR remote sensing images.
+This repository contains the data and resources needed to apply the Deformable-DETR model (**[Zhu et al., 2021](https://arxiv.org/abs/2010.04159)**) to optical and SAR remote sensing images.
 
 <div align="center" style="border: 2px solid black; padding: 10px; background-color: #f8f8f8;">
     <img src="assets/GITHUB_COVER.PNG" alt="Description du graphique" width="650">
@@ -12,8 +12,8 @@ This repository contains benchmarking notebooks for each dataset, in addition to
 
 - **DEtection TRansformer (DETR)** (**[Carion et al., 2020](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13)**)
 - **YOLO V10** (**[Redmon et al., 2016](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c34ddd05eb089991f06f3c5dc36836e0-Abstract-Conference.html)**)
-- **RetinaNet** (**[Lin et al., 2017](https://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html))**)
-- **Faster R-CNN** (**[Ren et al., 2015](https://proceedings.neurips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html))**)
+- **RetinaNet** (**[Lin et al., 2017](https://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html)**)
+- **Faster R-CNN** (**[Ren et al., 2015](https://proceedings.neurips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html)**)
   
 ---
 ## 📁 Repository Structure
