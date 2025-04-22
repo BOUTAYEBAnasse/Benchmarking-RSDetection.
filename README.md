@@ -18,12 +18,19 @@ This repository contains benchmarking notebooks for each dataset, in addition to
 ---
 ## 📁 Repository Structure
 
-The proposed notebooks contain implementations of each model, one notebook for each model and dataset, 6 in all.
+The proposed notebooks contain implementations of each model, two notebooks for each model, one for the nominal process, i.e. training, validation and testing, and the other for rapid inference on a set of images for each model, 20 in all.
+
 ---
 ## 🗺️ Data to be used
 
 This Google Drive link **[Google Drive Link](https://drive.google.com/drive/folders/1-8UDTKH-A7PerjXUXKDAXtTWKYRdj7IS?usp=sharing)** contains all the resources required to execute this project. The available resources include two datasets, Optical and SAR, using to train, validate and test the models presented.
-   
+
+## 📈 Workflow Diagram of Deformable-DETR
+
+The following diagram provides a visual overview of the workflow of the proposed model, **Deformable-DETR**. It highlights the key components of the architecture, including the CNN backbone, the multi-scale deformable attention modules, and the Transformer decoder responsible for predicting object classes and bounding boxes. This structure enables efficient and accurate object detection in high-resolution remote sensing imagery.
+<div align="center" style="border: 2px solid black; padding: 10px; background-color: #f8f8f8;">
+    <img src="assets/DEFORMABLE_DETR.PNG" alt="Description du graphique" width="650">
+</div>
 ---
 
 ## ▶️ Execution Instructions
