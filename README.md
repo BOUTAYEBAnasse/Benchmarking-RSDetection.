@@ -29,7 +29,7 @@ This Google Drive link **[Google Drive Link](https://drive.google.com/drive/fold
 
 The following diagram provides a visual overview of the workflow of the proposed model, **Deformable-DETR**. It highlights the key components of the architecture, including the CNN backbone, the multi-scale deformable attention modules, and the Transformer decoder responsible for predicting object classes and bounding boxes. This structure enables efficient and accurate object detection in high-resolution remote sensing imagery.
 <div align="center" style="border: 2px solid black; padding: 10px; background-color: #f8f8f8;">
-    <img src="assets/Deformable_DETR.PNG" alt="Workflow-DEFORMABLE-DETR" width="650">
+    <img src="assets/Deformable-DETR.png" alt="Workflow-DEFORMABLE-DETR" width="650">
 </div>
 ---
 
