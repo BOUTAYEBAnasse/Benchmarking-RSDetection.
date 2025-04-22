@@ -20,12 +20,12 @@ This repository contains benchmarking notebooks for each dataset, in addition to
 
 The proposed notebooks contain implementations of each model, two notebooks for each model, one for the nominal process, i.e. training, validation and testing, and the other for rapid inference on a set of images for each model, 20 in all.
 
-Fine Tuned Models are under this link: **[Google Drive Link](https://drive.google.com/drive/u/1/folders/1xf-vNriat8YUJQGu-fedciORcqXCzzW6?usp=sharing)**, please unzip the DETR and DEFORMABLE-DETR models before using them in the inference notebooks (folder: Predictions).
+You can download concerned models under: **[Fine-Tuned Models](https://drive.google.com/drive/u/1/folders/1xf-vNriat8YUJQGu-fedciORcqXCzzW6?usp=sharing)**, please unzip the DETR and DEFORMABLE-DETR models before using them in the inference notebooks (folder: Predictions).
 
 ---
 ## 🗺️ Data to be used
 
-This Google Drive link **[Google Drive Link](https://drive.google.com/drive/folders/1-8UDTKH-A7PerjXUXKDAXtTWKYRdj7IS?usp=sharing)** contains all the resources required to execute this project. The available resources include two datasets, Optical and SAR, using to train, validate and test the models presented.
+This Google Drive link **[Datasets](https://drive.google.com/drive/folders/1-8UDTKH-A7PerjXUXKDAXtTWKYRdj7IS?usp=sharing)** contains all the resources required to execute this project. The available resources include two datasets, Optical and SAR, using to train, validate and test the models presented.
 
 ## 📈 Workflow Diagram of Deformable-DETR
 
