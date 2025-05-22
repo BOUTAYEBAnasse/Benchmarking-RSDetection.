@@ -10,14 +10,14 @@ This repository contains the data and resources needed to apply **Deformable DET
 
 For each dataset (**Pleiades Aircraft** and **SSDD Ship Detection**), we provide Google Colab notebooks that fine‑tune and evaluate the following detectors:
 
-- **DN-DETR** – *DETR with DeNoising anchors for faster convergence* (Li et al., 2022)
-- **Conditional DETR** – *Conditional cross‑attention queries* (Meng et al., 2021)
-- **DAB-DETR** – *Dynamic Anchor Boxes* (Liu et al., 2022)
-- **Deformable DETR** – *Multi‑scale deformable attention* (Zhu et al., 2021)
-- **DETR** – *Baseline transformer detector* (Carion et al., 2020)
-- **YOLO V10** – *One‑stage CNN detector* (Redmon et al., 2016)
-- **RetinaNet** – *Focal‑loss one‑stage detector* (Lin et al., 2017)
-- **Faster R‑CNN** – *Two‑stage region‑proposal detector* (Ren et al., 2015)
+- **DN-DETR** – *DETR with DeNoising anchors for faster convergence* ([Li et al., 2022](https://arxiv.org/abs/2203.01305))
+- **Conditional DETR** – *Conditional cross-attention queries* ([Meng et al., 2021](https://arxiv.org/abs/2012.06579))
+- **DAB-DETR** – *Dynamic Anchor Boxes* ([Liu et al., 2022](https://arxiv.org/abs/2201.12329))
+- **Deformable DETR** – *Multi-scale deformable attention* ([Zhu et al., 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Zhu_Deformable_DETR_Deformable_Transformers_for_End-to-End_Object_Detection_CVPR_2021_paper.html))
+- **DETR** – *Baseline transformer detector* ([Carion et al., 2020](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13))
+- **YOLO V10** – *One-stage CNN detector* ([Redmon et al., 2016](https://pjreddie.com/media/files/papers/yolo_1.pdf))
+- **RetinaNet** – *Focal-loss one-stage detector* ([Lin et al., 2017](https://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html))
+- **Faster R-CNN** – *Two-stage region-proposal detector* ([Ren et al., 2015](https://arxiv.org/abs/1506.01497))
 
 Each model comes with two notebooks:
 1. **Training / Validation / Testing** – full end‑to‑end pipeline.
