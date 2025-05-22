@@ -13,9 +13,9 @@ For each dataset (**Pleiades Aircraft** and **SSDD Ship Detection**), we provide
 - **DN-DETR** – *DETR with DeNoising anchors for faster convergence* ([Li et al., 2022](https://arxiv.org/abs/2203.01305))
 - **Conditional DETR** – *Conditional cross-attention queries* ([Meng et al., 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Meng_Conditional_DETR_for_Fast_Training_Convergence_ICCV_2021_paper.html))
 - **DAB-DETR** – *Dynamic Anchor Boxes* ([Liu et al., 2022](https://arxiv.org/abs/2201.12329))
-- **Deformable DETR** – *Multi-scale deformable attention* ([Zhu et al., 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Zhu_Deformable_DETR_Deformable_Transformers_for_End-to-End_Object_Detection_CVPR_2021_paper.html))
+- **Deformable DETR** – *Multi-scale deformable attention* ([Zhu et al., 2021](https://arxiv.org/abs/2010.04159))
 - **DETR** – *Baseline transformer detector* ([Carion et al., 2020](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13))
-- **YOLO V10** – *One-stage CNN detector* ([Redmon et al., 2016](https://pjreddie.com/media/files/papers/yolo_1.pdf))
+- **YOLO V10** – *One-stage CNN detector* ([Redmon et al., 2016](https://arxiv.org/abs/2010.04159))
 - **RetinaNet** – *Focal-loss one-stage detector* ([Lin et al., 2017](https://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html))
 - **Faster R-CNN** – *Two-stage region-proposal detector* ([Ren et al., 2015](https://arxiv.org/abs/1506.01497))
 
