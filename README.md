@@ -11,7 +11,7 @@ This repository contains the data and resources needed to apply **Deformable DET
 For each dataset (**Pleiades Aircraft** and **SSDD Ship Detection**), we provide Google Colab notebooks that fine‑tune and evaluate the following detectors:
 
 - **DN-DETR** – *DETR with DeNoising anchors for faster convergence* ([Li et al., 2022](https://arxiv.org/abs/2203.01305))
-- **Conditional DETR** – *Conditional cross-attention queries* ([Meng et al., 2021](https://arxiv.org/abs/2012.06579))
+- **Conditional DETR** – *Conditional cross-attention queries* ([Meng et al., 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Meng_Conditional_DETR_for_Fast_Training_Convergence_ICCV_2021_paper.html))
 - **DAB-DETR** – *Dynamic Anchor Boxes* ([Liu et al., 2022](https://arxiv.org/abs/2201.12329))
 - **Deformable DETR** – *Multi-scale deformable attention* ([Zhu et al., 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Zhu_Deformable_DETR_Deformable_Transformers_for_End-to-End_Object_Detection_CVPR_2021_paper.html))
 - **DETR** – *Baseline transformer detector* ([Carion et al., 2020](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13))
