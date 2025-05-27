@@ -21,7 +21,7 @@ For each dataset (**Pleiades Aircraft** and **SSDD Ship Detection**), we provide
 
 Each model comes with two notebooks:
 1. **Training / Validation / Testing** – full end‑to‑end pipeline.
-2. **Quick Inference** – load a fine‑tuned checkpoint and run predictions on a folder of images.
+2. **Quick Inference** – load a fine‑tuned checkpoint and run predictions on a set of images.
 
 ---
 ## 📁 Repository Structure
